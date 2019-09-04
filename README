@@ -1,0 +1,25 @@
+
+RAM: 2 GB
+
+
+Instructions: 
+1. Move Image.c file to the src folder under darknet and replace the file with existing Image.c
+2. re-make the darknet by going to darknet directory in terminal and type make
+
+Pre Requirements ( for Ubuntu 16.04 or above):
+sudo apt-get install darknet
+sudo apt-get install opencv
+sudo apt-get install json
+sudo apt-get install magic
+sudo apt-get install re
+sudo apt-get install numpy
+sudo apt-get install pdf2image
+sudo apt-get install pytesseract
+sudo apt-get install PIL
+sudo apt-get install pyplot
+sudo apt-get install pyzbar
+sudo apt-get install tkinter
+sudo apt-get install difflib
+sudo apt-get install passporteye
+sudo apt-get install shlex
+sudo apt-get install argparse
